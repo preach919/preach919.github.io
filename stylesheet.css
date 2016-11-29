@@ -70,7 +70,8 @@ a:hover {
 	float: right;
 	margin-top: 50px;
 	width: 88%;
-	height: 1200px;
+	min-height: 1200px;
+	max-height: 100%;
 	background-color: #EFE9DD;
 	margin-bottom: 10px;
 }
